@@ -15,8 +15,17 @@ A simple **Tic Tac Toe** desktop game where you play against an unbeatable **AI*
 
 ## 🚀 How to Run:
 
+-Clone the repository or download the files.
+
 ### Option 1: Run the Python file
 1. Install Pygame:
    ```bash
    pip install pygame
    ```
+2. Run the game:
+   ```bash
+   python your_game.py
+   ```
+### Option 2: Run the Desktop App
+1. Go to the /dist folder.
+2. Open the tic-tac-toe.exe file.
