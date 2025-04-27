@@ -15,7 +15,7 @@ A simple **Tic Tac Toe** desktop game where you play against an unbeatable **AI*
 
 ## 🚀 How to Run:
 
--Clone the repository or download the files.
+- Clone the repository or download the files.
 
 ### Option 1: Run the Python file
 1. Install Pygame:
